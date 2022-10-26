@@ -3,54 +3,63 @@
         "id": "01",
         "name": "HTML",
         "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions. HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on. For example, take the following line of content:",
-        "photoUrl": "https://i0.wp.com/www.tutorialbrain.com/wp-content/uploads/2018/11/HTML-Image.png?fit=1024%2C768&ssl=1"
+        "photoUrl": "https://i0.wp.com/www.tutorialbrain.com/wp-content/uploads/2018/11/HTML-Image.png?fit=1024%2C768&ssl=1",
+        "price": "$100"
     },
     {
         "id": "02",
         "name": "CSS",
         "details": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language. In the Introduction to HTML module, we covered what HTML is and how it is used to mark up documents. These documents will be readable in a web browser. Headings will look larger than regular text, paragraphs break onto a new line and have space between them. Links are colored and underlined to distinguish them from the rest of the text. What you are seeing are the browser's default styles — very basic styles — that the browser applies to HTML to make sure that the page will be basically readable even if no explicit styling is specified by the author of the page.",
-        "photoUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png"
+        "photoUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
+        "price": "$120"
     },
     {
         "id": "03",
         "name": "Bootstrap",
         "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs. As a framework, Bootstrap includes the basics for responsive web development, so developers only need to insert the code into a pre-defined grid system. The Bootstrap framework is built on Hypertext Markup Language (HTML), cascading style sheets (CSS) and JavaScript. Web developers using Bootstrap can build websites much faster without spending time worrying about basic commands and functions.",
-        "photoUrl": "https://www.alpharithms.com/wp-content/uploads/2758/bootstrap-template-layout-tutorial-alpharithms.jpg"
+        "photoUrl": "https://www.alpharithms.com/wp-content/uploads/2758/bootstrap-template-layout-tutorial-alpharithms.jpg",
+        "price": "$75"
     },
     {
         "id": "04",
         "name": "Tailwind",
         "details": "Writing CSS can be really difficult. Period. And I get it – it can be frustrating to nail down your own ideas or the designs you get from your design team.I'm sure many of you have gone through the same pain at least a few times in your development careers. Well not anymore. Because it's time to learn an interesting tool that takes away a lot of the burden from us. And no it's not Bootstrap – it's called Tailwind CSS. While Tailwind has been around for a while now, you may not have come across it yet. Perhaps you just haven't heard about it, or you don't really know whether learning a new piece of tech related to CSS will really make your life easier.",
-        "photoUrl": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1"
+        "photoUrl": "https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1",
+        "price": "$85"
     },
     {
         "id": "05",
         "name": "Javascript",
         "details": "Welcome to the MDN beginner's JavaScript course! In this article we will look at JavaScript from a high level, answering questions such as What is it? and What can you do with it?, and making sure you are comfortable with JavaScript's purpose.JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.",
-        "photoUrl": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg"
+        "photoUrl": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+        "price": "$150"
     },
     {
         "id": "06",
         "name": "REACT JS",
         "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM. We do not make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.",
-        "photoUrl": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+        "photoUrl": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+        "price": "$200"
     },
     {
         "id": "07",
         "name": "NODE JS",
         "details": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following hello world example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep. This is in contrast to today's more common concurrency model, in which OS threads are employed. Thread-based networking is relatively inefficient and very difficult to use. Furthermore, users of Node.js are free from worries of dead-locking the process, since there are no locks. Almost no function in Node.js directly performs I/O, so the process never blocks except when the I/O is performed using synchronous methods of Node.js standard library. Because nothing blocks, scalable systems are very reasonable to develop in Node.js",
-        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2otZ6rceK1O0x_f0gE6dFyl5QobsM7o6SXQ&usqp=CAU"
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2otZ6rceK1O0x_f0gE6dFyl5QobsM7o6SXQ&usqp=CAU",
+        "price": "$250"
     },
     {
         "id": "08",
         "name": "Angular JS",
         "details": "AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects. It extends HTML DOM with additional attributes and makes it more responsive to user actions. AngularJS is open source, completely free, and used by thousands of developers around the world. It is licensed under the Apache license version 2.0. AngularJS is an open-source web application framework. It was originally developed in 2009 by Misko Hevery and Adam Abrons. It is now maintained by Google. Its latest version is 1.2.21.",
-        "photoUrl": "https://www.goodworklabs.com/wp-content/uploads/2017/05/9a_Angular-JS-development.jpg"
+        "photoUrl": "https://www.goodworklabs.com/wp-content/uploads/2017/05/9a_Angular-JS-development.jpg",
+        "price": "$150"
     },
     {
         "id": "09",
         "name": "Vue JS",
         "details": "The goal of this tutorial is to quickly give you an experience of what it feels like to work with Vue, right in the browser. It does not aim to be comprehensive, and you don't need to understand everything before moving on. After you complete it, make sure to also read the Guide which covers each topic in more detail.You can edit the code on the right and see the result update instantly. Each step will introduce a core feature of Vue, and you will be expected to complete the code to get the demo working. If you get stuck, you will have a Show me! button that reveals the working code for you. Try not to rely on it too much - you'll learn faster by figuring things out on your own. If you are an experienced developer coming from Vue 2 or other frameworks, there are a few settings you can tweak to make the best use of this tutorial. If you are a beginner, it's recommended to go with the defaults.",
-        "photoUrl": "https://wallpaperaccess.com/full/4584342.png"
+        "photoUrl": "https://wallpaperaccess.com/full/4584342.png",
+        "price": "$180"
     }
 ]
